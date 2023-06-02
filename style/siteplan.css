@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    text-align: justify;
+}
+li{
+    text-align: justify;
+}
+.container1{
+    width: 100%;
+    background-color: purple;
+    color: white;
+    font-family: century gothic;
+    text-align: center;
+}
+h1 h2 h3{
+    color: purple;
+}
+b{
+    color: purple;
+}
+.logo1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.text{
+    color: purple;
+}
